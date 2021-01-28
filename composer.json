@@ -1,5 +1,5 @@
 {
-    "name": "nexylan/paybox-direct",
+    "name": "mnwalker/paybox-direct",
     "description": "PayBox Direct and Direct Plus API wrapper",
     "keywords": ["Paybox", "Direct", "API", "Symfony"],
     "type": "library",
